@@ -1,5 +1,6 @@
 casino scripts crash, dice, hilo, jackpot, mines, roulette, battle
 
+I can provide installation you can contact me on telegram https://t.me/Proficientng
 
 ![image](https://github.com/user-attachments/assets/de2b7899-8b4a-4cc7-a5b5-a1f0ccde9e0f)
 ![image](https://github.com/user-attachments/assets/18e05346-ca2d-41f8-ad81-9734bb316e8a)
